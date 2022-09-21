@@ -45,7 +45,7 @@ body {
   padding: 0;
   /*background-image: url("https://raw.githubusercontent.com/anniebombanie/tic-tac-toe/master/img/fantasy-bg.jpg");
   background-size: cover;*/
-  background-color: #bf3535;
+  background-color: rgb(0, 22, 130);
   min-height: 100vh;
   display: flex;
   justify-content: center;
